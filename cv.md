@@ -12,7 +12,7 @@ ___
 - Discord: Accept#7998
 
 # **Summary**
-My goal is to learn everything new and exciting. I love to code and coffee. I can(love) spend a lot of time doing what interests me. i want to get knowledge and skills that will be enough for employment in a company.
+My goal is to learn everything new and exciting. I love to code and coffee. I can(love) spend a lot of time doing what interests me. I want to get knowledge and skills that will be enough for employment in a company.
 
 # **Skills**
 - HTML
