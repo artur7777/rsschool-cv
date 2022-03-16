@@ -23,7 +23,7 @@ My goal is to learn everything new and exciting. I love to code and coffee. I ca
 - Figma
 - Editors: Brackets. VsCode
 
-https://artur7777.github.io/rsschool-cv/cv
+[https://artur7777.github.io/rsschool-cv/cv](https://artur7777.github.io/rsschool-cv/cv)
 
 # **Code Example**
 ```
