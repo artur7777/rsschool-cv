@@ -40,3 +40,15 @@ function rentalCarCost(d) {
 # **Education**
 - International University MITSO, Minsk
 - Programming School(using Pascal language)
+
+# **Expirience**
+*Nothing yet...*
+
+# **Languages**
+-Russian
+
+-Polish
+
+-Italian
+### English
+- International House (Intermediate B2)
