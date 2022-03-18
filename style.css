@@ -1,0 +1,52 @@
+body{
+    margin: 0, auto;
+    background: url("../rsschool-cv/card.png");
+}
+.card{
+    width: 645px;
+    margin: 0 auto;
+    background-color: white;
+    box-shadow: 0 5px 10px rgb(54, 53, 53);
+    border-radius: 5px;
+    padding: 10px;
+    }
+    .card-foto{
+        width: 140px;
+        height: 140px;
+        display: block;
+        margin: 0 auto;
+        border-radius: 50%;
+    }
+    .card-title{
+        font-size: 20px;
+        text-align: center;
+        color: black;
+        margin: 0;
+        padding: 0;
+        
+    }
+    .card-text {
+        font-size: 16px;
+        color: #6d6868;
+        margin: 0px;
+        padding: 0;
+    }
+    .card-list{
+        font-size: 12px;
+        list-style-position: inside;
+        margin: 0;
+        padding: 0;
+    }
+        
+    .card-maintext{
+        font-size: 12px;
+        margin: 0;
+
+    }
+       
+        .code-text pre{
+        height: 105px;
+        background: rgb(194, 191, 191);
+        font-size: 9px;
+        margin: 0;
+    }
