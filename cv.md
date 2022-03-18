@@ -30,7 +30,7 @@ My goal is to learn everything new and exciting. I love to code and coffee. I ca
 function rentalCarCost(d) {
     if(d >= 7){
         return (d * 40) - 50;
-    }else if(d >= 3 && d < 7>){
+    }else if(d >= 3 && d < 7){
         return (d * 40) - 20;
     }else{
         return d * 40;
